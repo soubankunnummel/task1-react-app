@@ -1,0 +1,21 @@
+.main{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 6rem;
+
+}
+.main-item{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    
+    
+}
+button{
+    margin: 1rem;
+}
+label{
+    font-size: 60px;
+    font-weight: bold;
+}
